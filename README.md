@@ -3,6 +3,9 @@
 ### Showcasing and building on the work of:
 * https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 
+### Using data from:
+https://github.com/metrica-sports/sample-data
+
 ### IO
 * Event and Tracking Data
 
