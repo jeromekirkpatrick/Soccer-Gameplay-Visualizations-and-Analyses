@@ -1,5 +1,7 @@
 # SOCCER GAMEPLAY VISUALIZATIONS AND ANALYSES
 
+![Pitch Control](https://github.com/jeromekirkpatrick/Soccer-Gameplay-Visualizations-and-Analyses/tree/main/images)
+
 ### Showcasing and building on the work of:
 * https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
 
